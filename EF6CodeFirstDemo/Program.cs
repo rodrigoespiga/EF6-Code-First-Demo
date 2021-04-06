@@ -4,6 +4,7 @@ namespace EF6CodeFirstDemo
 {
     internal class Program
     {
+        // Test first commit
         private static void Main(string[] args)
         {
             using (var ctx = new SchoolContext())
